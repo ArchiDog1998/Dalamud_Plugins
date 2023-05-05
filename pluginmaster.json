@@ -22,7 +22,7 @@
     "AcceptsFeedback": true,
     "AssemblyVersion": "2.7.6",
     "Changelog": "2.7.6 (2023-05-05)\n\n\nBug Fixes\n\n* add back the relayFolder.. (a187349)\n* fix some bug with release. (598bf41)",
-    "DownloadCount": "7346",
+    "DownloadCount": "7412",
     "LastUpdate": 1683247175,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.6/latest.zip",
@@ -51,23 +51,39 @@
     "AcceptsFeedback": true,
     "AssemblyVersion": "1.0.0",
     "Changelog": "1.0.0 (2023-05-04)\n\n\nBug Fixes\n\n* first release. (4e872e5)",
-    "DownloadCount": "15",
+    "DownloadCount": "18",
     "LastUpdate": 1683211649,
     "RepoUrl": "https://github.com/ArchiDog1998/RollForLoot",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.0/latest.zip"
   },
   {
-    "Author": "ArchiDog1998",
-    "Name": "FakeName",
+    "Author": "ArchiTed, matrix",
+    "Name": "Fake Name",
     "InternalName": "FakeName",
+    "Description": "Show a fake name on your game ui.",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.0.5",
-    "Changelog": "",
+    "Tags": [
+      "display",
+      "name"
+    ],
+    "CategoryTags": [
+      "name"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/docs/RotationSolverIcon_128.png",
+    "Punchline": "Show a fake name on your game ui.",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.0",
+    "Changelog": "1.0.0 (2023-05-05)\n\n\nBug Fixes\n\n* add workflow. (5bdf85c)\n* changed desc. (6f6eb2a)\n* changed party member replacement. (fdce31a)\n* clean the whole project. (7563160)\n* fixed some bugs. (1598bf9)\n* fixed some bugs. (fb9053d)\n* fixed with build. (98a5fda)",
     "DownloadCount": "226",
-    "LastUpdate": 1674699010,
+    "LastUpdate": 1683292626,
     "RepoUrl": "https://github.com/ArchiDog1998/FakeName",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0.5/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0/latest.zip"
   }
 ]
