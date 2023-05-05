@@ -20,13 +20,42 @@
     "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/docs/RotationSolverIcon_128.png",
     "Punchline": "Based on the pve combat information in one frame, find the best action.",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "2.7.4",
-    "Changelog": "2.7.4 (2023-05-02)\n\n\nBug Fixes\n\n* add a fetch time for ping check. (476737a)\n* add a upper limit of ping, and restriction of  healPotion usage (ef07570)\n* add another ping check method to refine the ping. (1e751cd)\n* changed high-end error message. (0d74a6c)\n* changed state string. (c11e8a6)\n* fixed the heal potion usage. (ef42c91)\n* fixed with auto status tank stance. (015c5ba)",
-    "DownloadCount": "7594",
-    "LastUpdate": 1683034603,
+    "AssemblyVersion": "2.7.6",
+    "Changelog": "2.7.6 (2023-05-05)\n\n\nBug Fixes\n\n* add back the relayFolder.. (a187349)\n* fix some bug with release. (598bf41)",
+    "DownloadCount": "7346",
+    "LastUpdate": 1683247175,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.6/latest.zip"
+  },
+  {
+    "Author": "ArchiTed",
+    "Name": "Roll For Loot",
+    "InternalName": "RollForLoot",
+    "Description": "Roll for loot, please!",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "roll",
+      "loot"
+    ],
+    "CategoryTags": [
+      "roll"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RollForLoot/main/docs/RotationSolverIcon_128.png",
+    "Punchline": "Roll for loot, please!",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.0",
+    "Changelog": "1.0.0 (2023-05-04)\n\n\nBug Fixes\n\n* first release. (4e872e5)",
+    "DownloadCount": "15",
+    "LastUpdate": 1683211649,
+    "RepoUrl": "https://github.com/ArchiDog1998/RollForLoot",
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.0/latest.zip"
   },
   {
     "Author": "ArchiDog1998",
@@ -35,7 +64,7 @@
     "ApplicableVersion": "any",
     "AssemblyVersion": "1.0.0.5",
     "Changelog": "",
-    "DownloadCount": "222",
+    "DownloadCount": "226",
     "LastUpdate": 1674699010,
     "RepoUrl": "https://github.com/ArchiDog1998/FakeName",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0.5/latest.zip",
