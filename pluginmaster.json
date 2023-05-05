@@ -78,12 +78,12 @@
     "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/docs/RotationSolverIcon_128.png",
     "Punchline": "Show a fake name on your game ui.",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.0",
-    "Changelog": "1.0.0 (2023-05-05)\n\n\nBug Fixes\n\n* add workflow. (5bdf85c)\n* changed desc. (6f6eb2a)\n* changed party member replacement. (fdce31a)\n* clean the whole project. (7563160)\n* fixed some bugs. (1598bf9)\n* fixed some bugs. (fb9053d)\n* fixed with build. (98a5fda)",
+    "AssemblyVersion": "1.0.1",
+    "Changelog": "1.0.1 (2023-05-05)\n\n\nBug Fixes\n\n* for release. (f129798)",
     "DownloadCount": "226",
-    "LastUpdate": 1683292626,
+    "LastUpdate": 1683293504,
     "RepoUrl": "https://github.com/ArchiDog1998/FakeName",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.1/latest.zip"
   }
 ]
