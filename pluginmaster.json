@@ -22,7 +22,7 @@
     "AcceptsFeedback": true,
     "AssemblyVersion": "2.7.6",
     "Changelog": "2.7.6 (2023-05-05)\n\n\nBug Fixes\n\n* add back the relayFolder.. (a187349)\n* fix some bug with release. (598bf41)",
-    "DownloadCount": "7346",
+    "DownloadCount": "7518",
     "LastUpdate": 1683247175,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.6/latest.zip",
@@ -49,25 +49,70 @@
     "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RollForLoot/main/docs/RotationSolverIcon_128.png",
     "Punchline": "Roll for loot, please!",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.0",
-    "Changelog": "1.0.0 (2023-05-04)\n\n\nBug Fixes\n\n* first release. (4e872e5)",
-    "DownloadCount": "15",
-    "LastUpdate": 1683211649,
+    "AssemblyVersion": "1.0.2",
+    "Changelog": "1.0.2 (2023-05-06)\n\n\nBug Fixes\n\n* add a warning about roll failed. (ee1025a)\n* changed the auto close window. (cc4e1f8)\n* changed the config format. (74d3979)\n* fixed with roll minions or mounts and pld set. (d570488)",
+    "DownloadCount": "41",
+    "LastUpdate": 1683383718,
     "RepoUrl": "https://github.com/ArchiDog1998/RollForLoot",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.2/latest.zip"
   },
   {
-    "Author": "ArchiDog1998",
-    "Name": "FakeName",
+    "Author": "ArchiTed, matrix",
+    "Name": "Fake Name",
     "InternalName": "FakeName",
+    "Description": "Show a fake name on your game ui.",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.0.5",
-    "Changelog": "",
-    "DownloadCount": "226",
-    "LastUpdate": 1674699010,
+    "Tags": [
+      "display",
+      "name"
+    ],
+    "CategoryTags": [
+      "name"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/docs/RotationSolverIcon_128.png",
+    "Punchline": "Show a fake name on your game ui.",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.2",
+    "Changelog": "1.0.2 (2023-05-06)\n\n\nBug Fixes\n\n* add a free for changing name. (a3ff792)\n* simplify code. (38d6ee3)\n* simplify it. (5b613cc)",
+    "DownloadCount": "233",
+    "LastUpdate": 1683383274,
     "RepoUrl": "https://github.com/ArchiDog1998/FakeName",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.0.5/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.2/latest.zip"
+  },
+  {
+    "Author": "ArchiTed",
+    "Name": "Vote Please",
+    "InternalName": "VotePlease",
+    "Description": "Auto vote for you.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "mvp",
+      "vote"
+    ],
+    "CategoryTags": [
+      "vote"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/VotePlease/main/docs/RotationSolverIcon_128.png",
+    "Punchline": "Auto vote for you.",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.0",
+    "Changelog": "1.0.0 (2023-05-06)\n\n\nBug Fixes\n\n* first release. (9eecaa1)",
+    "DownloadCount": "0",
+    "LastUpdate": 1683386207,
+    "RepoUrl": "https://github.com/ArchiDog1998/VotePlease",
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/VotePlease/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/VotePlease/releases/download/v1.0.0/latest.zip"
   }
 ]
