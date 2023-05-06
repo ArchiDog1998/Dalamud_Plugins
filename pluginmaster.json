@@ -49,13 +49,13 @@
     "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RollForLoot/main/docs/RotationSolverIcon_128.png",
     "Punchline": "Roll for loot, please!",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.1",
-    "Changelog": "1.0.1 (2023-05-05)\n\n\nBug Fixes\n\n* add a feature for auto close the loot window. (08c794e)\n* fixed grammar mistake in roll result. (fd2297c)\n* fixed with open chest. (24cee3a)\n* no roll many times. (bea6c6e)",
+    "AssemblyVersion": "1.0.2",
+    "Changelog": "1.0.2 (2023-05-06)\n\n\nBug Fixes\n\n* add a warning about roll failed. (ee1025a)\n* changed the auto close window. (cc4e1f8)\n* changed the config format. (74d3979)\n* fixed with roll minions or mounts and pld set. (d570488)",
     "DownloadCount": "39",
-    "LastUpdate": 1683301696,
+    "LastUpdate": 1683383718,
     "RepoUrl": "https://github.com/ArchiDog1998/RollForLoot",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RollForLoot/releases/download/v1.0.2/latest.zip"
   },
   {
     "Author": "ArchiTed, matrix",
