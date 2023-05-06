@@ -3,6 +3,7 @@ const repos = [
     "RotationSolver",
     "RollForLoot",
     "FakeName",
+    "VotePlease",
 ];
 
 const clearText = (str) => {
