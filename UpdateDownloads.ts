@@ -1,7 +1,6 @@
 const user = "ArchiDog1998";
 const repos = [
     "RotationSolver",
-    "RollForLoot",
     "FakeName",
 ];
 
