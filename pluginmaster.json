@@ -25,7 +25,7 @@
     "AcceptsFeedback": true,
     "AssemblyVersion": "2.9.3",
     "Changelog": "2.9.3 (2023-05-27)\n\n\nBug Fixes\n\n* add a collision check for action target. (95ddb00)\n* add healing in combat when nothing to do option. (876e591)\n* add sight check for action target. (6bb38be)\n* add warning in CN server. (5b06021)\n* changed ko-fi link. (5bc40f1)\n* changed the positional showcase. (db83258)\n* fix with Parasol. (f3e14cd)",
-    "DownloadCount": "10336",
+    "DownloadCount": "10373",
     "LastUpdate": 1685201065,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.9.3/latest.zip",
