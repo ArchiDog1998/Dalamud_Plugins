@@ -25,7 +25,7 @@
     "AcceptsFeedback": true,
     "AssemblyVersion": "2.10.2",
     "Changelog": "2.10.2 (2023-06-20)\n\n\nBug Fixes\n\n* add enable toggle. (4d90cb2)\n* add melee range showing. (53e6bd4)\n* an icon target config. (1e11608)\n* blu try catch. (f39fc12)\n* fixed auto cancel and texture icon. (f5af92c)\n* fixed null exception in ObjectHelper. (6be0386)\n* fixed some config bug. (6969218)\n* fixed the drawing bug. (af7198a)\n* fixed with teaching mode. (2f2c8f2)\n* moving highlight. (0571ae9)\n* patch for drawing. (f316549)",
-    "DownloadCount": "11838",
+    "DownloadCount": "11888",
     "LastUpdate": 1687273098,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.10.2/latest.zip",
