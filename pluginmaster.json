@@ -25,7 +25,7 @@
     "AcceptsFeedback": true,
     "AssemblyVersion": "3.0.6",
     "Changelog": "3.0.6 (2023-07-07)\n\n\nBug Fixes\n\n* changed description about TargetFriendly. (461283f)\n* Speed up the reflection. (7a0c3e6)\n* wrong actions message. (731694e)",
-    "DownloadCount": "12467",
+    "DownloadCount": "12636",
     "LastUpdate": 1688742378,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.0.6/latest.zip",
